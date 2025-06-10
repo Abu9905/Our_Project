@@ -69,7 +69,7 @@ const Footer = () => {
               </div>
               <div className="flex items-start">
                 <MapPin className="w-5 h-5 mr-3 text-blue-500 mt-1" />
-                <span>123 Business Ave, Suite 100<br />San Francisco, CA 94107</span>
+                <span>Kogilu Road, Yelahanka Hobli, Thirumenahalli, Bengaluru, Karnataka  <br /> India, CA 560064 </span>
               </div>
             </div>
           </div>

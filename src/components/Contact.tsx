@@ -16,14 +16,14 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Call Us",
-      content: "+1 (555) 123-4567",
+      content: "+91 8541991640",
       description: "Mon-Fri from 8am to 6pm"
     },
     {
       icon: MapPin,
       title: "Visit Us",
-      content: "123 Business Ave, Suite 100",
-      description: "San Francisco, CA 94107"
+      content: "Kogilu Road, Yelahanka Hobli, Thirumenahalli, Bengaluru",
+      description: " Karnataka , India , CA 560064"
     }
   ];
 

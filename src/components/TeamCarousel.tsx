@@ -31,7 +31,7 @@ const teamMembers: TeamMember[] = [
   {
     name: "Rameez",
     role: "Co-Founder & CTO",
-    paragraph: "( AI Engineer )",
+    paragraph: "(Back-End Developer)",
     image: "rameez.jpg",
     initials: "MC",
     profile: "https://www.linkedin.com/in/ramij-raj-rahaman-ba9774131/",

@@ -40,7 +40,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           {/* Logo */}
           <Link to="/" className="font-bold text-2xl">
-            WebApp<span className="text-blue-600">Delivery</span>
+            acadbuilds<span className="text-blue-600">builds</span>
           </Link>
 
           {/* Desktop Navigation Links */}

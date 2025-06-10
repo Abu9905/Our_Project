@@ -9,7 +9,7 @@ const WhatsAppChat = () => {
   const [message, setMessage] = useState("Hi! I'm interested in your services.");
   
   // Replace with your actual WhatsApp number
-  const phoneNumber = "15551234567"; // Format: country code + number, no plus sign or spaces
+  const phoneNumber = "+91 8541991640"; // Format: country code + number, no plus sign or spaces
   
   const handleOpenWhatsApp = () => {
     if (!message.trim()) {
